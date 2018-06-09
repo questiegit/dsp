@@ -51,7 +51,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> Python 3.6.  Azure Notebooks come with it as default.
+>> Python 3.6.  Azure Notebooks comes with it as default.
 
 ### Q2. Which Python Version Installed   
 
