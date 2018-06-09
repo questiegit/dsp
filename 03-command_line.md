@@ -87,7 +87,7 @@ Option | Description
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > Run commands after getting more arguments from the input.
 
  
 
