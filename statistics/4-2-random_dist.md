@@ -21,3 +21,5 @@
 >> thinkplot.Cdf(random_cdf)
 
 >> thinkplot.Config(xlabel='random', ylabel='CDF')
+
+>> # YES, the distribution is uniform
